@@ -1,6 +1,6 @@
 Resolusi tahun ini adalah:
 1. Bisa python
-2. Bisa HTML, CSS, JavaScript, dan TypeScript
+2. Bisa TypeScript
 3. Bisa Cyber
 4. IPK diatas 3.5
 5. Bisa implementasi AI
