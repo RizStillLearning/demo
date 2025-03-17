@@ -5,4 +5,4 @@ Resolusi tahun ini adalah:
 4. IPK diatas 3.5
 5. Bisa implementasi AI
 6. Bisa C++
-7. Lulus dari Binus
+7. Lulus dari UI
